@@ -1,0 +1,1 @@
+https://rapidapi.com/ai-box-ai-box-default/api/horoscopes-ai
